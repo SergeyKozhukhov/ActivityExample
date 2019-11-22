@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activityWindows_textview_corners_radius">16dp</dimen>
+    <dimen name="activityWindows_textview_stroke_width">4dp</dimen>
+    <dimen name="activityWindows_textview_stroke_dashWidth">4dp</dimen>
+    <dimen name="activityWindows_textview_stroke_dashGap">4dp</dimen>
+    <dimen name="activityWindows_textTitle_textSize">30sp</dimen>
+    <dimen name="activityWindows_textTitle_marginTop">10dp</dimen>
+    <dimen name="activityWindows_textTitle_marginBottom">10dp</dimen>
+    <dimen name="activityWindows_textTitle_padding">10dp</dimen>
+    <dimen name="activityWindows_textView_valueTestModel_textSize">20sp</dimen>
+    <dimen name="activityWindows_textView_valueTestModel_margin">10dp</dimen>
+    <dimen name="activityWindows_textView_valueTestModel_padding">10dp</dimen>
+</resources>

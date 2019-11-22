@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ActivityExample</string>
+    <string name="dict_eng">qwertyuiopasdfghjklzxcvbnm</string>
+    <string name="activityMain_button_open_market_main_text">open_market_main</string>
+    <string name="activityMain_button_open_market_catalog_text">open_market_catalog</string>
+    <string name="activityMain_button_open_market_map_text">open_market_map</string>
+    <string name="activityMain_button_open_market_search_text">open_market_search</string>
+    <string name="activityMain_button_open_market_account_text">open_market_account</string>
+</resources>
